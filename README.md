@@ -28,8 +28,9 @@ D     == d$
 Tabs
 ----
 ```
-                Open <file> in new tab    :tabe <file>
+                Open <file> in new tab    :tabe[dit] <file>
 gt              Next tab                  :tabn[ext]
 gT              Previous tab              :tabp[revious]
                 Close tab                 :tabc[close]
+                List tabs                 :tabs
 ```
