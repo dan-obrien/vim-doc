@@ -34,3 +34,15 @@ gT              Previous tab              :tabp[revious]
                 Close tab                 :tabc[close]
                 List tabs                 :tabs
 ```
+Window Splits
+-------------
+```
+                Split window horiz        :sp
+                Split window vertically   :vsp
+                Close window              :q
+                
+CTRL-w k        Move UP to window
+CTRL-w j        Move DOWN to window
+CTRL-w h        Move LEFT to window
+CTRL-w l        Move RIGHT to window
+```
