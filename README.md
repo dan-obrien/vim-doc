@@ -18,6 +18,11 @@ CTRL-e        Cursor remains; move viewport down
 CTRL-u        Move viewport UP half screen
 CTRL-d        Move viewport DOWN half screen
 ```
+Editing
+-------
+```
+r <char>      Replace the character under the cursor with <char>
+```
 Deletion
 --------
 ```
