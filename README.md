@@ -18,6 +18,25 @@ CTRL-e        Cursor remains; move viewport down
 CTRL-u        Move viewport UP half screen
 CTRL-d        Move viewport DOWN half screen
 ```
+Searching
+---------
+```
+/ <term>      Find occurances of term (searching forward)
+? <term>      Find occurances of term (searching back)
+n             Find NEXT occurance
+N             Find previous occurance
+CTRL-O        Go back to where you came from (can repeat multiple times)
+CTRL-I        Go forward (from above)
+%             Go to matching parenthesis ( "(", "[", "{" )
+```
+Replace
+-------
+```
+:s/<search>/<replace>     Replace first instance of <search> with <replace> on current line
+:s/<search>/<replace>/g   Replace all instances of <search> with <replace> on current line
+:%s/<search>/<replace>/g  Reaplce all instances of <search> with <replace> in the whole file
+:%s/<search>/<replace>/gc Reaplce all instances of <search> with <replace> in the whole file, with prompt
+```
 Editing
 -------
 ```
