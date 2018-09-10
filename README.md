@@ -77,3 +77,11 @@ Running command line commands
 ```
 :!<command>
 ```
+Visual Selection
+----------------
+Enter visual selection mode with v
+```
+Press v
+Move up/down to highlight a number of lines
+:w <filename>       Will write the highlighted selection to the file <filename>
+```
