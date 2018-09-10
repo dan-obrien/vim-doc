@@ -22,6 +22,7 @@ Editing
 -------
 ```
 r <char>      Replace the character under the cursor with <char>
+ce            CHANGE to END of word.  Deletes word from cursor and places you in insert mode
 ```
 Deletion
 --------
