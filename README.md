@@ -72,3 +72,8 @@ CTRL-w j        Move DOWN to window
 CTRL-w h        Move LEFT to window
 CTRL-w l        Move RIGHT to window
 ```
+Running command line commands
+-----------------------------
+```
+:!<command>
+```
